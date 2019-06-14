@@ -16,4 +16,6 @@ https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/14062019
 
 Talk 2. Wavelet and statistical dispersion method for bearing fault detection - (presented by Yapi Donatien Achou)
 
+
 Talk 3. Overview of current Machine Learning Platforms - (presented by Angèle Abboud)
+https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/14062019%20Overview_of_ML_Platforms.pdf
