@@ -10,7 +10,7 @@ https://karpathy.github.io/2019/04/25/recipe/
 Talk 2. Introduction to NLP for Norwegian text - (presented by Bjarte Johansen)
 https://gist.github.com/ljos/4447f620ea23db122ba27721013b4c0f
 
-## Meetup on 14.06.2019 at Media City Bergen ( Sponsored by Webstep )
+## Meetup on 13.06.2019 at Media City Bergen ( Sponsored by Webstep )
 Talk 1.  Algorithmic Defense mechanisms against online Fake News - (presented by Choukha Ram)
 https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/14062019%20Algorithmic%20Defense%20mechanisms%20against%20Online%20Fake%20News.pdf
 
