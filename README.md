@@ -19,3 +19,10 @@ https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/13062019
 
 Talk 3. Overview of current Machine Learning Platforms - (presented by Angèle Abboud)
 https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/13062019%20Overview_of_ML_Platforms.pdf
+
+## Meetup on 08.08.2019 at Bouvet
+Talk 1. Introduction to Machine Learning and Natural Language Processing for programmers - (presented by Morten Mjelde from Bouvet)
+https://www.bouvet.no/bouvet-deler/ml-og-nlp-intro
+
+Talk 2. Train & Deploy Machine Learning Models on the Web or Mobile - (presented by Choukha Ram)
+https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/
