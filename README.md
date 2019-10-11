@@ -29,6 +29,7 @@ https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/
 
 ## Meetup on 10.10.2019 at Bouvet
 Talk 1. Medical images are very interesting as input for AI. But what types of medical images exist? A short introduction! - (presented by Yngve Kvinnsland, Data Scientist at Bouvet )
+https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/10102019%20Medical%20Images%20introduction.pdf
 
 Talk 2. Tackling climate change with machine learning - (presented by Choukha Ram, Data Scientist at Equinor )
 https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/10102019%20Tackling%20Climate%20Change%20with%20ML.pdf
