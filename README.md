@@ -33,3 +33,14 @@ https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/10102019
 
 Talk 2. Tackling climate change with machine learning - (presented by Choukha Ram, Data Scientist at Equinor )
 https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/10102019%20Tackling%20Climate%20Change%20with%20ML.pdf
+
+## 19.11.2019 at Bouvet
+Talk 1. Artificial intelligence in image diagnostics: design methodologies for efficient use of data - (presented by Satheshkumar Kaliyugarasan, Data Scientist at Bouvet )
+https://docs.google.com/presentation/d/1rBWEqWSiqZjvXpPaR_y72lOFSj1leWrXjZtC0Qt3Kh8/present?slide=id.g60235265a7_0_77
+
+Talk 2. Real-time predictions and simulations of public transportation vehicles - (presented by Håkon Hapnes Strand, Senior Data Scientist at Webstep )
+https://docs.google.com/presentation/d/1bDK09rl8angxPf9o_XjV484ncoyoE8kGGjXlrOadXtg/present?slide=id.p
+
+## 10.12.2019 at Webstep ( NeurIPS 2019 Meetup )
+Talk 1. Deep Learning with Bayesian Principles by Mohammad Emtiyaz Khan
+https://slideslive.com/38923183/deep-learning-with-bayesian-principles
