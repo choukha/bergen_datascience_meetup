@@ -42,5 +42,23 @@ Talk 2. Real-time predictions and simulations of public transportation vehicles 
 https://docs.google.com/presentation/d/1bDK09rl8angxPf9o_XjV484ncoyoE8kGGjXlrOadXtg/present?slide=id.p
 
 ## 10.12.2019 at Webstep ( NeurIPS 2019 Meetup )
-Talk 1. Deep Learning with Bayesian Principles by Mohammad Emtiyaz Khan
+Talk 1. Deep Learning with Bayesian Principles by Mohammad Emtiyaz Khan 
 https://slideslive.com/38923183/deep-learning-with-bayesian-principles
+
+## 23.01.2020 at Bouvet
+Talk 1. Customer churn prediction in an online streaming service - (presented by Silje Hindenes & Astrid Johnsen Tessem from data science team of TV2 Sumo )
+https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/23012020%20Customer%20churn%20prediciton.pdf
+
+Talk 2. End-to-end machine learning - (presented by Yapi Donatien Achou, data scientist at Karsten Moholt AS )
+
+## 27.02.2020 at Bouvet
+Talk 1. Deepfakes - What are deepfakes & How do they work? - (presented by Choukha Ram, Data Scientist @ Equinor )
+https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/27022020%20DeepFakes.pdf
+
+Talk 2. Generating value from Publicly available Oil and Gas Data using various ML algorithms - (presented by Khushal Adlakha, Data Scientist @ Pro Well Plan AS)
+https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/27022020%20Generating%20Value%20from%20Publicly%20Available%20Oil%20and%20Gas%20Data.pdf
+
+Talk 3. Using ML for Automatic Fish Species identification from underwater images - (presented by Vaneeda Allken , Postdoctoral Researcher in Machine Learning @ Institute of Marine Research(IMR) )
+https://github.com/choukha/bergen_datascience_meetup/blob/master/Slides/27022020%20Using%20ML%20for%20Automatic%20Fish%20Species%20identification%20from%20underwater%20images.pdf
+
+
